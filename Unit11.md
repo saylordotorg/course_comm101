@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: The Importance of Language** <span id="11"></span> 
 *Critiquing the language you use in a speech is the oral equivalent of
 editing your own writing.  It can be difficult to recognize when words

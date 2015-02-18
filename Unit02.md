@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Speaking Confidently** <span id="2"></span> 
 **Unfortunately, understanding the anxiety which you may experience
 about public speaking does not necessarily help to alleviate it.

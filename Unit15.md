@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit16
+previous: ../Unit14
+---
 **Unit 15: Persuasive Speaking** <span id="15"></span> 
 *Most speakers consider persuasive speaking as the most difficult of the
 three basic types (informative, persuasive, and entertaining).  One of

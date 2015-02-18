@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: Delivering The Speech** <span id="12"></span> 
 *It is not just what you say; it is how you say it.  This is why
 understanding the nature of oral delivery and improving your own oral

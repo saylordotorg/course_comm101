@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit15
+previous: ../Unit13
+---
 **Unit 14: Speaking to Inform and Entertain** <span id="14"></span> 
 *In this unit, you will review and focus more directly on the purposes
 of informing and entertaining when giving speeches.  Even though the

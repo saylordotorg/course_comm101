@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Audience Analysis** <span id="4"></span> 
 **The Shannon and Weaver model of communication introduced in Unit 1
 (see the Section 1.2 reading in* Stand up, Speak out: The Practice and

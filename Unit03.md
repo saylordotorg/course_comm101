@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Importance of Listening** <span id="3"></span> 
 **Every speech course includes a unit on listening, even though most
 people do not associate the subjects with each other.  Yet, it is very

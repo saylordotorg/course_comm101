@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Supporting Ideas and Building Arguments** <span
 id="7"></span> 
 **This unit covers topics which establish the substance of your speech. 

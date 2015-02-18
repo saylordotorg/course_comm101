@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit14
+previous: ../Unit12
+---
 **Unit 13: Presentation Aids: Design and Usage** <span id="13"></span> 
 *Decisions and opportunities associated with the design and use of
 presentation aids are innumerable, making it difficult to decide where

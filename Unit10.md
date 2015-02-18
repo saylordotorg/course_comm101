@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Outlining** <span id="10"></span> 
 *This unit explores the use of outlining in preparation for giving a
 speech.  In this unit and the next, consider critically the authors’

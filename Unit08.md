@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Body of a Speech** <span id="8"></span> 
 *This unit of the course deviates from the order of content presented in
 the textbook by presenting material on developing the body of your

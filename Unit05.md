@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Finding a Purpose and Selecting a Topic** <span
 id="5"></span> 
 **More often than not, the purpose and topic of your speech will be

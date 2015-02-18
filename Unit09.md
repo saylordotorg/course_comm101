@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Introductions and Conclusions** <span id="9"></span> 
 *Now that you have an understanding of how to develop the body of your
 speech, it is time to focus on creating an engaging introduction and

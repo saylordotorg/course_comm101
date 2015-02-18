@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Why Public Speaking Matters Today** <span id="1"></span> 
 *If you are reading this material in or within a few years of 2011, you
 probably remember the public protests which rocked the world.  In

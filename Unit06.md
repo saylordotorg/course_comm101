@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM101: Public Speaking"
+course_description: "An examination of the elements and factors which result in an effective speech."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Researching Your Speech** <span id="6"></span> 
 **In the introduction to the chapter in the textbook which covers the
 topic of research, the authors emphasize an entity whose role in society
